@@ -44,7 +44,7 @@
 
         <div class="relative z-10">
             <div class="inline-block px-4 py-1.5 bg-emerald-50 text-[#10B981] text-xs font-black rounded-full uppercase tracking-widest mb-6">
-                ✨ Marketplace Barang Bekas No. 1 di Makassar
+                ✨ Marketplace Barang Bekas
             </div>
             
             <h1 class="text-6xl md:text-8xl font-black mb-8 tracking-tighter text-slate-900 leading-[0.9]">
@@ -87,7 +87,7 @@
             <div class="w-2 h-2 rounded-full bg-emerald-400"></div>
             <div class="w-2 h-2 rounded-full bg-pink-400"></div>
         </div>
-        <p>&copy; 2025 PRELOVED MAKASSAR - RE-USE & RE-LOVE</p>
+        <p>&copy; 2025 PRELOVED Marketplace - RE-USE & RE-LOVE</p>
     </footer>
 
 </body>
