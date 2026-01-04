@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Preloved - Barang Bekas Jadi Berkah</title>
+    <title>Preloved - Barang Bekas</title>
 
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600,800&display=swap" rel="stylesheet" />
@@ -44,7 +44,7 @@
 
         <div class="relative z-10">
             <div class="inline-block px-4 py-1.5 bg-emerald-50 text-[#10B981] text-xs font-black rounded-full uppercase tracking-widest mb-6">
-                ✨ Marketplace Barang Bekas
+                ✨ Marketplace Barang Bekas.
             </div>
             
             <h1 class="text-6xl md:text-8xl font-black mb-8 tracking-tighter text-slate-900 leading-[0.9]">
